@@ -1,0 +1,122 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background:url(images/body_bg.png) #BFBFBF repeat-x;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:14px;
+	color:#222;
+	text-align:left;
+}
+
+a:link, a:visited{
+	color:#0064FF;
+	text-decoration:none;
+}
+
+a:hover {
+	text-decoration:underline;
+}
+
+a:active {
+	text-decoration:none;
+	font-weight:normal;
+}
+
+h2 {
+	font-size:20px;
+	font-weight:bold;	
+}
+
+.header {
+	margin: 10px auto 0 auto;
+	padding: 8px;
+	text-align:center;
+}
+
+.wrapper {
+	margin: 5px auto 0 auto;
+	padding: 0;
+	min-width:966px;
+	max-width:1010px;
+}
+
+.nav {
+	list-style-type:none;
+	display:table;
+	height:35px;
+	padding: 0 0 0 25px;
+}
+
+.nav li {
+	width:145px;
+	height:25px;
+	background:url(images/tab_2.png) no-repeat;
+	font-size:18px;
+	vertical-align:middle;
+	padding: 10px 0 0 30px;
+	float:left;
+}
+
+.nav a:link, .nav a:visited, .nav a:active {
+	color:#222;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+.nav a:hover {
+	color:#FFF;	
+}
+
+.wr2 {
+	min-width:960px;
+	max-width:990px;
+	background:url(images/manilla_bg.gif);
+	-webkit-border-radius:15px;
+	-moz-border-radius:15px;
+	border: 2px solid #bda275;
+	padding: 15px;
+}
+
+.content {
+	min-width:930px;
+	max-width:960px;
+	background:url(images/paper_bg.gif);
+	min-height:600px;
+	padding:15px;
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+	margin:0 auto;
+}
+
+.footer {
+	font-size: 11px;
+	font-style:italic;
+	padding: 0 25px 0 25px;
+	margin: 5px 0 0 0;
+	text-align:center;	
+}
+
+.center_margin {
+	text-align:center;
+}
+
+#head_banner {
+	background:url(images/TWA_header.png);
+	width:900px;
+	height:150px;
+	margin: 0 auto;
+}
+
+.content-title {
+	font-style:italic;
+	min-width:400px;
+	margin: 0 0 25px 15px;
+	border-bottom: 1px groove #333;	
+	padding: 0 0 5px 15px;
+}
+
+.content-title h2 {
+	font-style:normal;
+	font-size:25px;
+}

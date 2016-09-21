@@ -1,0 +1,15 @@
+<div class="content-title">
+	<h2>The Webcomic Archive - Home</h2>
+</div>
+<div align="center">
+	<img src="/images/TWA-logo.png" title="The Webcomic Archive" />
+</div>
+<p>
+Welcome to the Webcomic Archive!  This began as a personal project fo me so that I could have offline archives of my favorite comics and it has turned into this:  an online repository of comics to make reading through archives and keeping up to date easier.  I am always looking for more comics to add, so if you want your comic here or have a suggestion for something you would like to see, please let me know.  I am also constantly doing updates to the site so if you notice things are consistantly slow or have any errors please let me know.  My next big project is grabbing title tags for comics which use them for extra data, such as xkcd.  If you do not want your content here, click the link at the bottom of the page and let me know, and I will take it down immediately.
+</p>
+<p>
+As more comics are added you will see them on the Comics page; just click the link up top to see what is available.  The archive is set up so you can pick how many comics you want to view per page with the default being 15.  If you want to change how many you see, simply change the num= in the URL of the page.  It can be any number, but beware of long load times for pages with lots of comics.  You can also save and restore your location in the archive so long as you have cookies enabled.  All you need to do is click the Set Save link in the navigation links to save, and click Restore save to go back to where you were.  It doesn't store your location on the page, but it will bring you back to the exact same page you were on.  This cookie does expire after 3000 hours (125 days) so it won't save your place longer than that.
+</p>
+<p>
+Enjoy the Archive!
+</p>
